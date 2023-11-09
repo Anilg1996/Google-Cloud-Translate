@@ -1,5 +1,7 @@
 # Google-Cloud-Translate
 
+// Package Name = "translate-google"
+
 // Request
 {
   "message": "Hello Everyone Hope you are doing well",
